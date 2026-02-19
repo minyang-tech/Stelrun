@@ -4,8 +4,9 @@ public class GroundLoop : MonoBehaviour
 {
     public float speed = 12f;
     public float boostSpeed = 24f; // like spiderman
-    public float resetPosX = 30f;
-    public float destroyPosX = -30f;
+    public float resetPosX = 15f;
+    public float destroyPosX = -15f;
+    // 이렇게 하면 총 거리 30을 무한 반복합니다.
 
     private void Update()
     {
