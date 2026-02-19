@@ -165,8 +165,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::GroundLoop
   speed: 12
   boostSpeed: 24
-  resetPosX: 30
   destroyPosX: -30
+  loopDistance: 60
 --- !u!1 &216335331
 GameObject:
   m_ObjectHideFlags: 0
@@ -213,8 +213,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::GroundLoop
   speed: 12
   boostSpeed: 24
-  resetPosX: 30
   destroyPosX: -30
+  loopDistance: 60
 --- !u!1 &771581928
 GameObject:
   m_ObjectHideFlags: 0
@@ -294,8 +294,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::GroundLoop
   speed: 12
   boostSpeed: 24
-  resetPosX: 30
   destroyPosX: -30
+  loopDistance: 60
 --- !u!212 &771581931
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -418,7 +418,7 @@ Rigidbody2D:
   m_Mass: 1
   m_LinearDamping: 0
   m_AngularDamping: 0.05
-  m_GravityScale: 1
+  m_GravityScale: 4
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -596,8 +596,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::GroundLoop
   speed: 12
   boostSpeed: 24
-  resetPosX: 30
   destroyPosX: -30
+  loopDistance: 60
 --- !u!1 &1264446798
 GameObject:
   m_ObjectHideFlags: 0
@@ -677,8 +677,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::GroundLoop
   speed: 12
   boostSpeed: 24
-  resetPosX: 30
   destroyPosX: -30
+  loopDistance: 60
 --- !u!212 &1264446801
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -799,8 +799,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::GroundLoop
   speed: 12
   boostSpeed: 24
-  resetPosX: 30
   destroyPosX: -30
+  loopDistance: 60
 --- !u!1 &1794329616
 GameObject:
   m_ObjectHideFlags: 0
@@ -972,8 +972,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::GroundLoop
   speed: 12
   boostSpeed: 24
-  resetPosX: 30
   destroyPosX: -30
+  loopDistance: 60
 --- !u!212 &1833148283
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1172,8 +1172,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::GroundLoop
   speed: 12
   boostSpeed: 24
-  resetPosX: 30
   destroyPosX: -30
+  loopDistance: 60
 --- !u!212 &1957729291
 SpriteRenderer:
   m_ObjectHideFlags: 0
