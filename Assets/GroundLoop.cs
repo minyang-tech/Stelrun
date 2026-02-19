@@ -25,7 +25,8 @@ public class GroundLoop : MonoBehaviour
         if (transform.position.x <= destroyPosX)
         {
             float offset = transform.position.x - destroyPosX;
-            transform.position = new Vector2(resetPosX + offset, transform.position.y);
+            // 현재 위치에서 30(바닥 두 개 길이)만큼만 딱 더해줌!
+            transform.position = new Vector2(transform.position.x + 30f, transform.position.y);
         }
     }
 }
