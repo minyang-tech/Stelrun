@@ -131,7 +131,7 @@ GameObject:
   - component: {fileID: 915488673}
   - component: {fileID: 915488675}
   - component: {fileID: 915488674}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Square
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -297,7 +297,7 @@ GameObject:
   - component: {fileID: 935670552}
   - component: {fileID: 935670551}
   - component: {fileID: 935670550}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Ayatsno Yuni
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -479,7 +479,7 @@ GameObject:
   - component: {fileID: 1149202587}
   - component: {fileID: 1149202589}
   - component: {fileID: 1149202588}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: BBUL
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -644,7 +644,7 @@ GameObject:
   - component: {fileID: 1216314373}
   - component: {fileID: 1216314372}
   - component: {fileID: 1216314371}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: PlayerRun
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -902,7 +902,7 @@ GameObject:
   - component: {fileID: 1861782924}
   - component: {fileID: 1861782926}
   - component: {fileID: 1861782925}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: PlayerRun
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1023,7 +1023,7 @@ GameObject:
   - component: {fileID: 1894800770}
   - component: {fileID: 1894800773}
   - component: {fileID: 1894800772}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Square
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1189,7 +1189,7 @@ GameObject:
   - component: {fileID: 1895694908}
   - component: {fileID: 1895694907}
   - component: {fileID: 1895694906}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Airi Kanna
   m_TagString: Untagged
   m_Icon: {fileID: 0}
