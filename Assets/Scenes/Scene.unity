@@ -269,6 +269,7 @@ GameObject:
   - component: {fileID: 935670552}
   - component: {fileID: 935670551}
   - component: {fileID: 935670550}
+  - component: {fileID: 935670555}
   m_Layer: 3
   m_Name: Ayatsno Yuni
   m_TagString: Untagged
@@ -439,6 +440,19 @@ Transform:
   - {fileID: 915488672}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &935670555
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 935670549}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32090cef13a723248ab347647a41990f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::LookAtMouse2D
+  rotateSpeed: 10
 --- !u!1 &973323627
 GameObject:
   m_ObjectHideFlags: 0
@@ -1260,6 +1274,7 @@ GameObject:
   - component: {fileID: 1895694908}
   - component: {fileID: 1895694907}
   - component: {fileID: 1895694906}
+  - component: {fileID: 1895694911}
   m_Layer: 3
   m_Name: Airi Kanna
   m_TagString: Untagged
@@ -1429,6 +1444,19 @@ Transform:
   - {fileID: 1894800771}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1895694911
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1895694905}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32090cef13a723248ab347647a41990f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::LookAtMouse2D
+  rotateSpeed: 10
 --- !u!1 &1907391844
 GameObject:
   m_ObjectHideFlags: 0
