@@ -1,6 +1,3 @@
-> [!IMPORTANT]
-5월 9일부터 개발을 재개합니다.
-
 # Stelrun
 Stellive Fan Game / 2차창작가이드라인을 준수하여 만들어졌습니다.
 
